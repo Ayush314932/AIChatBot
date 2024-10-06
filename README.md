@@ -1,11 +1,25 @@
-# React + Vite
+# AI Chatbot using Gemini API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an AI-powered chatbot built using the Gemini API, designed to provide intelligent and interactive responses. The chatbot leverages **React Vite** for a fast, modern frontend setup and **React Markdown** for rendering rich, user-friendly text content.
 
-Currently, two official plugins are available:
+## Features:
+- **Natural Language Processing**: Uses the Gemini API for accurate, human-like responses.
+- **React Vite Integration**: Fast, lightweight frontend build with React Vite for an optimized development experience.
+- **React Markdown**: Seamless rendering of rich text and markdown content in the chatbot UI.
+- **Contextual Understanding**: Maintains conversation context for more dynamic and intelligent interactions.
+- **Customizable and Scalable**: Easily adaptable for different industries with a scalable API integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack:
+- **Frontend**: React Vite for a performant and fast development experience.
+- **Backend**: Node.js and Express.js for handling API requests.
+- **AI**: Gemini API for language understanding and generation.
+- **React Markdown**: For rendering markdown syntax and rich content in the chatbot interface.
+
+## Getting Started:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+
 
 ## Setup Procedure
 
@@ -13,3 +27,7 @@ Currently, two official plugins are available:
 - Get API key from: [api-key](https://aistudio.google.com/app/apikey)
 - `npm install`
 - `npm run dev`
+
+##PREVIEW
+![image](https://github.com/user-attachments/assets/c2e9441e-7939-4026-b218-4e1de4813c1b)
+
