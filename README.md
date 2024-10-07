@@ -27,7 +27,3 @@ This project is an AI-powered chatbot built using the Gemini API, designed to pr
 - Get API key from: [api-key](https://aistudio.google.com/app/apikey)
 - `npm install`
 - `npm run dev`
-
-##PREVIEW
-![image](https://github.com/user-attachments/assets/c2e9441e-7939-4026-b218-4e1de4813c1b)
-
